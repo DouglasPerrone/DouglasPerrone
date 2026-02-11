@@ -1,4 +1,4 @@
-<h2 align="left">Hi :wave:! My name is Douglas and I'm a Full Stack Developer from Brazil :flag_br:</h2>
+<h2 align="left">Hi :wave:! My name is Douglas and I'm a Full Stack Developer from Brazil :brazil:</h2>
 
 ###
 
