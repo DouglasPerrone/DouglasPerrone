@@ -5,7 +5,7 @@
 <p align="left">
 :computer: Passionate about building scalable systems, mobile applications, and game mechanics.<br>
 :video_game: Currently working on MMORPG systems, backend APIs, and automation tools.<br>
-:mobile_phone: React Native developer focused on performance and clean architecture.<br>
+:iphone: React Native developer focused on performance and clean architecture.<br>
 :rocket: Always learning, always building.
 </p>
 
