@@ -6,7 +6,7 @@ Full Stack Developer from Brazil, mostly working with backend systems, web/mobil
 
 <p>
 These days I've been building things around MMORPG servers, APIs, automation and React Native apps.
-I like working on projects where there's a lot going on behind the scenes — game systems, integrations, databases and infrastructure.
+I like working on projects where there's a lot going on behind the scenes, game systems, integrations, databases and infrastructure.
 </p>
 
 <h3>what I work with</h3>
